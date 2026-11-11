@@ -11,7 +11,7 @@ Call `get_connections_status` directly.
 
 - **If it works**: continue to step 2.
 - **If the MCP server is not found**: tell the user:
-  "The Adspirer connector isn't connected. Add it in Perplexity under Settings → Connectors → Custom connector → Remote, with the URL `https://mcp.adspirer.com/mcp`, sign in with your Adspirer account, then ask me to run setup again."
+  "The Adspirer connector isn't connected. Add it in Perplexity under Computer → Connectors → + Custom connector, with the URL `https://mcp.adspirer.com/mcp`, sign in with your Adspirer account, then ask me to run setup again."
 - **If OAuth is triggered**: tell the user a browser window is opening for authentication. Wait for them to confirm, then retry.
 - **If no platforms are connected**: tell the user to connect ad accounts at https://adspirer.ai/connections, then run setup again.
 

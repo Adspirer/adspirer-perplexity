@@ -2,7 +2,7 @@
   "name": "Adspirer",
   "key": "adspirer",
   "host": "perplexity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI advertising agent for growing your business. Create, analyze, and optimize ad campaigns across Google, Meta, TikTok, LinkedIn, Amazon, and ChatGPT Ads—with your approval.",
   "mcp": {
     "url": "https://mcp.adspirer.com/mcp",
