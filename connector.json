@@ -1,0 +1,43 @@
+{
+  "name": "Adspirer",
+  "key": "adspirer",
+  "host": "perplexity",
+  "version": "1.0.0",
+  "description": "AI advertising agent for growing your business. Create, analyze, and optimize ad campaigns across Google, Meta, TikTok, LinkedIn, Amazon, and ChatGPT Ads—with your approval.",
+  "mcp": {
+    "url": "https://mcp.adspirer.com/mcp",
+    "transport": "streamable-http",
+    "auth": "oauth2 (browser sign-in, PKCE)"
+  },
+  "readOnly": false,
+  "category": "Marketing / Advertising",
+  "platforms": "Google, Meta, TikTok, LinkedIn, Amazon and ChatGPT Ads",
+  "logo": "https://storage.googleapis.com/adspirer-images-v1/brand/adspirer-logo-square.png",
+  "homepage": "https://www.adspirer.com",
+  "support": "support@adspirer.com",
+  "docs": "https://www.adspirer.com/docs",
+  "privacy": "https://www.adspirer.com/privacy",
+  "terms": "https://www.adspirer.com/terms",
+  "connections": "https://adspirer.ai/connections",
+  "skills": [
+    "adspirer-agent",
+    "adspirer-amazon-ads",
+    "adspirer-chatgpt-ads",
+    "adspirer-creative",
+    "adspirer-docs",
+    "adspirer-google-ads",
+    "adspirer-launch",
+    "adspirer-linkedin-ads",
+    "adspirer-mcp",
+    "adspirer-meta-ads",
+    "adspirer-optimize",
+    "adspirer-performance-review",
+    "adspirer-setup",
+    "adspirer-tiktok-ads"
+  ],
+  "toolsSkill": "adspirer-mcp",
+  "derivedFrom": {
+    "repository": "https://github.com/Adspirer/adspirer-cursor-plugin",
+    "version": "1.0.3"
+  }
+}
